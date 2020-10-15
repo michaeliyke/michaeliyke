@@ -1,16 +1,33 @@
-### Hi there 👋
+## [Michael Iyke - Web Developer](https://michaeliyke.com/)
+
+I am passionate about efficient software design and whenever possible, I love to see an O(1) complexity. As an upcom, I'm curious about high performance/high availability solutions and would like to see that in action beyond the stories. 
+
+My focus is on Web development: backend, front-end, both... who care? A JS lover is free to place his face wherever he wants and you won't blame him, will you?
+
+Well, that's just my rants! For more fun engage [me on Twitter](https://twitter.com/michaelciyke/)  or [LinkedIn](https://linkedin.com/in/michaeliyke).
+
+For a quick *"hi"* you can also  [contact me directly](https://contact.michaeliyke.com/).
 
 <!--
-**michaeliyke/michaeliyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am open for hot deals: freelance or a full-time position.**
+-->
+<!-- ## Hello! You're on with Michael -->
+[![Michael C. Iyke](img/bg-masthead.jpg)](https://michaeliyke.com)
 
-Here are some ideas to get you started:
+<!--
+**[Visit site](https://michaeliykeiyke.com/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Check out below links  . . .
+| [Currency Converter](https://currency.michaeliyke.com/) | [Blog](https://blog.michaeliyke.com/) | [Budget Utility](https://playground.michaeliyke.com/) | [Tabforward](https://playground.michaeliyke.com/tabforward/) | [Armstrong](https://playground.michaeliyke.com/Armstrong/) | [Take a color](https://playground.michaeliyke.com/color/)
+| --- | --- | --- | --- | --- | --- |
+
+-->
+<!--
+## Let's set th stage!
+
+* Few quick nuggets to put us set the stage and ensure we are both on the same page:
+* *UX is not UI* and *UI is not UX*, `but they know each other`
+* Know one thing about everything and know everything about one thing!
+* If 
+* [More of my rants on Twitter](https://twitter.com/michaelciyke/)
 -->
