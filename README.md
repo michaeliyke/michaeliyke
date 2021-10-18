@@ -1,13 +1,13 @@
 ## [Michael Iyke - Web Developer](https://michaeliyke.com/)
 
-I am passionate about efficient software design and whenever possible, I love to see an O(1) complexity. As an upcom, I'm curious about high performance/high availability solutions and would like to see that in action beyond the stories. 
-
+I am a software developer and I aspire to master software arts empowering enough to participate in the global change software brings to the world.
+<!--
 My focus is on Web development: backend, front-end, both... who care? A JS lover is free to place his face wherever he wants and you won't blame him, will you?
 
 Well, that's just my rants! For more fun engage [me on Twitter](https://twitter.com/michaelciyke/)  or [LinkedIn](https://linkedin.com/in/michaeliyke).
 
 For a quick *"hi"* you can also  [contact me directly](https://contact.michaeliyke.com/).
-
+-->
 <!--
 **I am open for hot deals: freelance or a full-time position.**
 -->
